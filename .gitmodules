@@ -1,0 +1,3 @@
+[submodule "PyTorchV2"]
+	path = PyTorchV2
+	url = https://github.com/udacity/deep-learning-v2-pytorch
